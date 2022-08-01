@@ -6,5 +6,9 @@ The working is based on Arduino, L298N motor, DC motor driver, Android OS and Bl
 
 ![photo_2021-12-25_17-37-45](https://user-images.githubusercontent.com/92218316/182012041-f14e9773-075a-499b-addc-638e86f88f32.jpg)
 
-https://user-images.githubusercontent.com/92218316/182012001-b0f58494-db74-464f-b565-e81bf5d68391.mp4
+
+
+https://user-images.githubusercontent.com/92218316/182078761-e96d2d68-c6d7-4b80-85a0-c6c75e2bf4b2.mp4
+
+
 
